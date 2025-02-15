@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wjfi1z8A+Tit0VVA/Ll1elFLjvzGswPzcQahsDDBzq8=",
+  "Source": "sites-api",
+  "BasePath": "_content/sites-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
