@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sites-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dd858b7138763b9f72d1fd9f1810c7060f2f6f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("sites-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sites-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
