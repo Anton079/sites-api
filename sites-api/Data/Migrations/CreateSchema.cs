@@ -15,7 +15,7 @@ namespace sites_api.Data.Migrations
             Create.Table("site")
                 .WithColumn("id").AsInt32().PrimaryKey().Identity()
                 .WithColumn("type").AsString(120).NotNullable()
-                .WithColumn("pageNumber").AsString(120).NotNullable()
+                .WithColumn("pageNumber").AsInt32().NotNullable()
                 .WithColumn("price").AsInt32().NotNullable();
 
 

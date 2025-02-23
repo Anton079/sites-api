@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\mycode\\asp.net\\sites-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|c:\\mycode\\asp.net\\sites-api\\sites-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|solutionrelative:sites-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|c:\\mycode\\asp.net\\sites-api\\sites-api\\sites\\repository\\isiterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|solutionrelative:sites-api\\sites\\repository\\isiterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|c:\\mycode\\asp.net\\sites-api\\sites-api\\sites\\mapers\\sitemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|solutionrelative:sites-api\\sites\\mapers\\sitemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|c:\\mycode\\asp.net\\sites-api\\sites-api\\sites\\repository\\siterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|solutionrelative:sites-api\\sites\\repository\\siterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|c:\\mycode\\asp.net\\sites-api\\sites-api\\sites\\dtos\\siterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|solutionrelative:sites-api\\sites\\dtos\\siterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|c:\\mycode\\asp.net\\sites-api\\sites-api\\sites\\dtos\\siteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|solutionrelative:sites-api\\sites\\dtos\\siteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|c:\\mycode\\asp.net\\sites-api\\sites-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,12 +31,24 @@
       "RelativeMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|solutionrelative:sites-api\\sites\\models\\site.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|c:\\mycode\\asp.net\\sites-api\\sites-api\\sites\\sitecontroller\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|solutionrelative:sites-api\\sites\\sitecontroller\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|c:\\mycode\\asp.net\\sites-api\\sites-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|solutionrelative:sites-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|c:\\mycode\\asp.net\\sites-api\\sites-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|solutionrelative:sites-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|c:\\mycode\\asp.net\\sites-api\\sites-api\\sites-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|solutionrelative:sites-api\\sites-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|c:\\mycode\\asp.net\\sites-api\\sites-api\\sites\\repository\\isiterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|solutionrelative:sites-api\\sites\\repository\\isiterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2BDBA94-DCB9-4FFE-AFB4-297593A56661}|sites-api\\sites-api.csproj|c:\\mycode\\asp.net\\sites-api\\sites-api\\sites-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,11 +62,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SiteMappingProfile.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Sites\\Mapers\\SiteMappingProfile.cs",
+              "RelativeDocumentMoniker": "sites-api\\Sites\\Mapers\\SiteMappingProfile.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Sites\\Mapers\\SiteMappingProfile.cs",
+              "RelativeToolTip": "sites-api\\Sites\\Mapers\\SiteMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:42:46.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SiteResponse.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Sites\\Dtos\\SiteResponse.cs",
+              "RelativeDocumentMoniker": "sites-api\\Sites\\Dtos\\SiteResponse.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Sites\\Dtos\\SiteResponse.cs",
+              "RelativeToolTip": "sites-api\\Sites\\Dtos\\SiteResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:42:35.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SiteRequest.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Sites\\Dtos\\SiteRequest.cs",
+              "RelativeDocumentMoniker": "sites-api\\Sites\\Dtos\\SiteRequest.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Sites\\Dtos\\SiteRequest.cs",
+              "RelativeToolTip": "sites-api\\Sites\\Dtos\\SiteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:41:57.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "SiteController.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Sites\\SiteController\\SiteController.cs",
+              "RelativeDocumentMoniker": "sites-api\\Sites\\SiteController\\SiteController.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Sites\\SiteController\\SiteController.cs",
+              "RelativeToolTip": "sites-api\\Sites\\SiteController\\SiteController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:53:23.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "sites-api.http",
               "DocumentMoniker": "C:\\mycode\\asp.net\\sites-api\\sites-api\\sites-api.http",
               "RelativeDocumentMoniker": "sites-api\\sites-api.http",
@@ -58,96 +126,103 @@
               "RelativeToolTip": "sites-api\\sites-api.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-05T18:52:27.683Z"
+              "WhenOpened": "2025-02-05T18:52:27.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\mycode\\asp.net\\sites-api\\sites-api\\appsettings.json",
               "RelativeDocumentMoniker": "sites-api\\appsettings.json",
               "ToolTip": "C:\\mycode\\asp.net\\sites-api\\sites-api\\appsettings.json",
               "RelativeToolTip": "sites-api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-05T18:46:52.267Z"
+              "WhenOpened": "2025-02-05T18:46:52.267Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Program.cs",
               "RelativeDocumentMoniker": "sites-api\\Program.cs",
               "ToolTip": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Program.cs",
               "RelativeToolTip": "sites-api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAjwBoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T18:46:51.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "sites-api.csproj",
               "DocumentMoniker": "C:\\mycode\\asp.net\\sites-api\\sites-api\\sites-api.csproj",
               "RelativeDocumentMoniker": "sites-api\\sites-api.csproj",
               "ToolTip": "C:\\mycode\\asp.net\\sites-api\\sites-api\\sites-api.csproj",
               "RelativeToolTip": "sites-api\\sites-api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-05T18:46:46.746Z"
+              "WhenOpened": "2025-02-05T18:46:46.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CreateSchema.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Data\\Migrations\\CreateSchema.cs",
               "RelativeDocumentMoniker": "sites-api\\Data\\Migrations\\CreateSchema.cs",
               "ToolTip": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Data\\Migrations\\CreateSchema.cs",
               "RelativeToolTip": "sites-api\\Data\\Migrations\\CreateSchema.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T18:44:40.633Z"
+              "WhenOpened": "2025-02-05T18:44:40.633Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Data\\Migrations\\AppDbContext.cs",
               "RelativeDocumentMoniker": "sites-api\\Data\\Migrations\\AppDbContext.cs",
               "ToolTip": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Data\\Migrations\\AppDbContext.cs",
               "RelativeToolTip": "sites-api\\Data\\Migrations\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T18:43:14.999Z"
+              "WhenOpened": "2025-02-05T18:43:14.999Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SiteRepo.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Sites\\Repository\\SiteRepo.cs",
               "RelativeDocumentMoniker": "sites-api\\Sites\\Repository\\SiteRepo.cs",
               "ToolTip": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Sites\\Repository\\SiteRepo.cs",
               "RelativeToolTip": "sites-api\\Sites\\Repository\\SiteRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAACAmZmZmZkewCIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T18:37:03.81Z"
+              "WhenOpened": "2025-02-05T18:37:03.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "ISiteRepo.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Sites\\Repository\\ISiteRepo.cs",
               "RelativeDocumentMoniker": "sites-api\\Sites\\Repository\\ISiteRepo.cs",
               "ToolTip": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Sites\\Repository\\ISiteRepo.cs",
               "RelativeToolTip": "sites-api\\Sites\\Repository\\ISiteRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T18:36:55.258Z"
+              "WhenOpened": "2025-02-05T18:36:55.258Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Site.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\sites-api\\sites-api\\Sites\\Models\\Site.cs",
               "RelativeDocumentMoniker": "sites-api\\Sites\\Models\\Site.cs",
@@ -155,7 +230,8 @@
               "RelativeToolTip": "sites-api\\Sites\\Models\\Site.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T18:36:32.929Z"
+              "WhenOpened": "2025-02-05T18:36:32.929Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -27,7 +27,7 @@ public class Program
         options.UseMySql(builder.Configuration.GetConnectionString("Default")!,
         new MySqlServerVersion(new Version(8, 0, 21))));
 
-        builder.Services.AddScoped<ISiteRepo, SiteRepo>();
+        
         builder.Services.AddFluentMigratorCore()
             .ConfigureRunner(rb => rb.AddMySql5()
             .WithGlobalConnectionString(builder.Configuration.GetConnectionString("Default"))
@@ -35,7 +35,7 @@ public class Program
             .AddLogging(lb => lb.AddFluentMigratorConsole());
 
         builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-
+        builder.Services.AddScoped<ISiteRepo, SiteRepo>();
         var app = builder.Build();
 
         if (app.Environment.IsDevelopment())

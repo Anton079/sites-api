@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "sites_api.Sites.SiteController.SiteController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/v1/Site/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "siteReq",
+        "Type": "sites_api.Sites.Dtos.SiteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "sites_api.Sites.Dtos.SiteResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "sites_api.Sites.SiteController.SiteController",
+    "Method": "GetSitesAsync",
+    "RelativePath": "api/v1/Site/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[sites_api.Sites.Models.Site, sites-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

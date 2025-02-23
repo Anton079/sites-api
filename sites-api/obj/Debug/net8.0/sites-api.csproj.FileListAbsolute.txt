@@ -97,3 +97,4 @@ C:\mycode\asp.net\sites-api\sites-api\obj\Debug\net8.0\refint\sites-api.dll
 C:\mycode\asp.net\sites-api\sites-api\obj\Debug\net8.0\sites-api.pdb
 C:\mycode\asp.net\sites-api\sites-api\obj\Debug\net8.0\sites-api.genruntimeconfig.cache
 C:\mycode\asp.net\sites-api\sites-api\obj\Debug\net8.0\ref\sites-api.dll
+C:\mycode\asp.net\sites-api\sites-api\obj\Debug\net8.0\sites-api.sourcelink.json

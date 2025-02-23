@@ -17,10 +17,10 @@ namespace sites_api.Sites.Models
 
         [Required]
         [Column("pageNumber")]
-        public int pageNumber { get; set; }
+        public int PageNumber { get; set; }
 
         [Required]
         [Column("price")]
-        public int price { get; set; }
+        public int Price { get; set; }
     }
 }
